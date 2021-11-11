@@ -1,5 +1,5 @@
 # F4
-
+```
 + src
 |-+ AFL
 |---+ ...code...
@@ -9,7 +9,7 @@
 |-+ run.sh
 |-+ vuln
 |-+ vuln.c
-
+```
 ## Run
 * `make $fuzzer`
 * `./run.sh $fuzzer`
